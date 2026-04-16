@@ -7,7 +7,4 @@ if SHIELD_KEYPAD16
 config ZMK_KEYBOARD_NAME
     default "keypad16"
 
-# config BT_CTLR
-#     default BT
-
 endif # SHIELD_KEYPAD16
