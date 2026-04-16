@@ -19,7 +19,7 @@
                 &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans
-                &EQUAL    &trans    &trans    &studio_unlock
+                &kp EQUAL &trans    &trans    &studio_unlock
             >;
         };
     };
