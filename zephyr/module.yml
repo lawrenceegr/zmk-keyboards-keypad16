@@ -1,4 +1,4 @@
-name: zmk-keyboard-keypad16
+name: zmk-keyboards-keypad16
 build:
   settings:
     board_root: .
